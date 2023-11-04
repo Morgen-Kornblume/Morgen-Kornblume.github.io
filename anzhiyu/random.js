@@ -1,1 +1,1 @@
-var posts=["2023/10/20/hello-world/","2023/10/20/my-test-article/","2023/10/21/灵光一现，用Git管理文艺作品创作的思考/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/20/hello-world/","2023/10/21/灵光一现，用Git管理文艺作品创作的思考/","2023/10/20/my-test-article/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
