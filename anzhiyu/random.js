@@ -1,1 +1,1 @@
-var posts=["2023/10/20/hello-world/","2023/10/20/my-test-article/","2023/10/21/灵光一现，用Git管理文艺作品创作的思考/","2023/11/04/FP期中复习-我对Haskell的浅见/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/11/04/FP期中复习-我对Haskell的浅见/","2023/10/20/hello-world/","2023/11/06/math-and-code-test/","2023/10/20/my-test-article/","2023/10/21/灵光一现，用Git管理文艺作品创作的思考/","2023/11/30/献给我的19岁生日/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
